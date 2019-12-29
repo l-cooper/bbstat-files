@@ -1,4 +1,4 @@
-gid,team,gameNumber,opp,home,spread,n,wins,scored,allowed,lob,n_vs,wins_vs,scored_vs,allowed_vs,dn,dUR,dTUR,dP,dA,dE,dPB,pn,p_W,p_L,p_SV,p_R,p_ER,p_IP,p_BF,p_S,p_D,p_T,p_HR,p_BB,p_HBP,p_IBB,p_K,p_BK,p_WP,p_PO,p_GDP,b_O,b_E,b_S,b_D,b_T,b_HR,b_BB,b_IBB,b_HBP,b_K,b_I,b_SH,b_SF,b_GDP,b_R,b_RBI,b_SB,b_CS,b_PO
+gid,team,gameNumber,opp,home,spread,n,wins,scored,allowed,lob,n_vs,wins_vs,scored_vs,allowed_vs,dn,dUR,dTUR,dP,dA,dE,dPB,pn,pW,pL,pSV,pR,pER,pIP,pBF,pS,pD,pT,pHR,pBB,pHBP,pIBB,pK,pBK,pWP,pPO,pGDP,bO,bE,bS,bD,bT,bHR,bBB,bIBB,bHBP,bK,bI,bSH,bSF,bGDP,bR,bRBI,bSB,bCS,bPO
 20180921PITMIL0,PIT,152,MIL,1,-5,20,13,73,72,118,16,11,78,52,20,5,1,525,153,10,2,20,7,7,0,49,50,330,463,69,22,4,19,23,2,2,74,0,6,1,0,277,8,107,35,1,9,37,4,5,132,0,4,3,14,57,52,8,7,1
 20180807TBABAL0,TBA,113,BAL,1,1,20,8,105,121,128,13,6,64,90,20,12,0,529,173,18,1,14,2,7,0,58,51,180,293,44,20,3,14,34,2,2,58,0,2,1,0,268,3,95,30,7,20,51,2,7,124,0,0,4,11,86,76,13,7,2
 20180501HOUNYA0,HOU,31,NYA,1,-4,20,12,102,57,144,1,1,2,1,20,1,0,539,179,1,0,20,14,1,0,27,26,407,507,51,10,1,18,25,4,1,164,0,3,2,0,321,4,115,40,0,18,76,0,7,159,1,1,9,15,93,93,6,4,2

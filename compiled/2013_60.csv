@@ -1,4 +1,4 @@
-gid,team,gameNumber,opp,home,spread,n,wins,scored,allowed,lob,n_vs,wins_vs,scored_vs,allowed_vs,dn,dUR,dTUR,dP,dA,dE,dPB,pn,p_W,p_L,p_SV,p_R,p_ER,p_IP,p_BF,p_S,p_D,p_T,p_HR,p_BB,p_HBP,p_IBB,p_K,p_BK,p_WP,p_PO,p_GDP,b_O,b_E,b_S,b_D,b_T,b_HR,b_BB,b_IBB,b_HBP,b_K,b_I,b_SH,b_SF,b_GDP,b_R,b_RBI,b_SB,b_CS,b_PO
+gid,team,gameNumber,opp,home,spread,n,wins,scored,allowed,lob,n_vs,wins_vs,scored_vs,allowed_vs,dn,dUR,dTUR,dP,dA,dE,dPB,pn,pW,pL,pSV,pR,pER,pIP,pBF,pS,pD,pT,pHR,pBB,pHBP,pIBB,pK,pBK,pWP,pPO,pGDP,bO,bE,bS,bD,bT,bHR,bBB,bIBB,bHBP,bK,bI,bSH,bSF,bGDP,bR,bRBI,bSB,bCS,bPO
 20130831ATLMIA0,ATL,135,MIA,1,1,60,39,271,195,423,13,9,61,32,60,10,0,1633,609,22,2,56,24,15,0,134,137,1035,1388,177,69,5,41,84,6,9,292,0,7,0,0,900,17,313,70,11,59,165,19,16,477,0,24,10,39,215,222,45,9,4
 20130921SDNLAN0,LAN,155,SDN,0,4,60,41,264,191,443,17,9,57,69,60,17,0,1625,683,41,2,60,27,18,0,113,108,1285,1676,215,63,5,27,101,8,6,421,3,16,6,0,999,24,379,103,6,41,135,14,20,418,1,28,17,47,239,236,28,11,4
 20130427DETATL0,DET,22,ATL,1,3,21,11,100,87,185,1,1,10,0,21,6,0,587,197,6,2,34,10,14,0,113,106,562,840,172,56,2,19,44,6,3,110,0,7,3,0,860,16,340,84,10,51,158,17,13,337,0,5,12,43,237,242,19,6,1

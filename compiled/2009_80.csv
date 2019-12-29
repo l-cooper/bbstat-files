@@ -1,4 +1,4 @@
-gid,team,gameNumber,opp,home,spread,n,wins,scored,allowed,lob,n_vs,wins_vs,scored_vs,allowed_vs,dn,dUR,dTUR,dP,dA,dE,dPB,pn,p_W,p_L,p_SV,p_R,p_ER,p_IP,p_BF,p_S,p_D,p_T,p_HR,p_BB,p_HBP,p_IBB,p_K,p_BK,p_WP,p_PO,p_GDP,b_O,b_E,b_S,b_D,b_T,b_HR,b_BB,b_IBB,b_HBP,b_K,b_I,b_SH,b_SF,b_GDP,b_R,b_RBI,b_SB,b_CS,b_PO
+gid,team,gameNumber,opp,home,spread,n,wins,scored,allowed,lob,n_vs,wins_vs,scored_vs,allowed_vs,dn,dUR,dTUR,dP,dA,dE,dPB,pn,pW,pL,pSV,pR,pER,pIP,pBF,pS,pD,pT,pHR,pBB,pHBP,pIBB,pK,pBK,pWP,pPO,pGDP,bO,bE,bS,bD,bT,bHR,bBB,bIBB,bHBP,bK,bI,bSH,bSF,bGDP,bR,bRBI,bSB,bCS,bPO
 20090513MINDET0,MIN,34,DET,1,4,33,16,153,171,231,3,2,13,13,33,7,0,865,307,13,6,32,13,6,0,94,91,576,826,145,45,3,28,47,4,0,96,1,2,1,0,1304,29,448,129,24,56,221,17,23,383,0,10,30,67,353,343,46,16,8
 20090809HOUMIL0,HOU,111,MIL,1,2,80,42,340,380,541,8,3,35,43,80,30,0,2144,861,46,7,47,19,13,0,110,94,822,1144,172,51,6,29,80,8,8,259,4,3,1,0,1357,25,482,122,12,49,155,12,30,404,0,30,23,62,295,285,51,21,1
 20090604DETBOS0,DET,52,BOS,1,-3,51,28,262,226,332,2,0,6,15,51,18,8,1351,507,23,4,11,1,4,0,32,38,137,216,25,10,1,7,43,1,0,28,0,5,1,0,1065,22,368,97,15,78,208,10,16,426,0,25,16,52,318,338,30,11,2

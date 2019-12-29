@@ -1,4 +1,4 @@
-gid,team,gameNumber,opp,home,spread,n,wins,scored,allowed,lob,n_vs,wins_vs,scored_vs,allowed_vs,dn,dUR,dTUR,dP,dA,dE,dPB,pn,p_W,p_L,p_SV,p_R,p_ER,p_IP,p_BF,p_S,p_D,p_T,p_HR,p_BB,p_HBP,p_IBB,p_K,p_BK,p_WP,p_PO,p_GDP,b_O,b_E,b_S,b_D,b_T,b_HR,b_BB,b_IBB,b_HBP,b_K,b_I,b_SH,b_SF,b_GDP,b_R,b_RBI,b_SB,b_CS,b_PO
+gid,team,gameNumber,opp,home,spread,n,wins,scored,allowed,lob,n_vs,wins_vs,scored_vs,allowed_vs,dn,dUR,dTUR,dP,dA,dE,dPB,pn,pW,pL,pSV,pR,pER,pIP,pBF,pS,pD,pT,pHR,pBB,pHBP,pIBB,pK,pBK,pWP,pPO,pGDP,bO,bE,bS,bD,bT,bHR,bBB,bIBB,bHBP,bK,bI,bSH,bSF,bGDP,bR,bRBI,bSB,bCS,bPO
 20120912PHIMIA0,PHI,143,MIA,1,2,30,20,134,107,219,14,7,48,53,30,9,3,815,269,16,3,30,6,8,0,77,74,639,850,136,45,2,25,28,1,0,208,0,4,1,0,528,11,160,52,2,30,75,13,11,179,0,13,8,19,124,126,22,3,2
 20120411BALNYA0,NYA,6,BAL,0,2,5,2,23,24,48,2,2,11,6,5,3,0,136,42,2,0,30,19,7,0,79,77,655,905,156,36,3,18,50,6,5,214,1,2,1,0,550,8,152,53,3,36,112,10,14,218,0,5,5,27,152,136,18,5,0
 20120924TEXOAK0,TEX,153,OAK,1,1,30,19,149,118,171,12,6,44,49,30,11,0,801,269,15,0,30,15,6,0,90,88,584,789,96,29,5,33,56,3,0,171,1,1,5,0,516,12,163,52,9,50,71,14,8,204,0,5,6,28,147,143,4,5,4

@@ -1,4 +1,4 @@
-gid,team,gameNumber,opp,home,spread,n,wins,scored,allowed,lob,n_vs,wins_vs,scored_vs,allowed_vs,dn,dUR,dTUR,dP,dA,dE,dPB,pn,p_W,p_L,p_SV,p_R,p_ER,p_IP,p_BF,p_S,p_D,p_T,p_HR,p_BB,p_HBP,p_IBB,p_K,p_BK,p_WP,p_PO,p_GDP,b_O,b_E,b_S,b_D,b_T,b_HR,b_BB,b_IBB,b_HBP,b_K,b_I,b_SH,b_SF,b_GDP,b_R,b_RBI,b_SB,b_CS,b_PO
+gid,team,gameNumber,opp,home,spread,n,wins,scored,allowed,lob,n_vs,wins_vs,scored_vs,allowed_vs,dn,dUR,dTUR,dP,dA,dE,dPB,pn,pW,pL,pSV,pR,pER,pIP,pBF,pS,pD,pT,pHR,pBB,pHBP,pIBB,pK,pBK,pWP,pPO,pGDP,bO,bE,bS,bD,bT,bHR,bBB,bIBB,bHBP,bK,bI,bSH,bSF,bGDP,bR,bRBI,bSB,bCS,bPO
 20050819TBATEX0,TEX,121,TBA,0,-1,70,27,377,428,496,5,2,40,36,70,31,1,1856,686,45,6,5,1,2,0,15,15,90,129,24,6,0,4,6,2,0,24,2,1,0,0,1186,17,398,130,8,119,221,5,22,452,0,3,13,35,365,362,25,6,4
 20050407SDNPIT0,PIT,3,SDN,0,-1,2,0,4,19,15,0,0,0,0,2,1,0,54,16,2,0,32,11,12,0,108,100,573,832,136,51,3,28,62,6,6,102,1,6,2,0,915,20,293,75,12,50,165,8,39,371,0,2,16,41,222,197,30,11,4
 20050411NYNHOU0,HOU,6,NYN,0,-4,5,4,19,15,41,0,0,0,0,5,0,0,135,60,2,0,16,6,4,0,38,37,267,367,45,21,0,9,29,0,2,82,0,5,2,0,829,25,252,77,6,50,123,11,12,221,0,27,10,35,199,182,30,9,1

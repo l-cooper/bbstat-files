@@ -1,4 +1,4 @@
-gid,team,gameNumber,opp,home,spread,n,wins,scored,allowed,lob,n_vs,wins_vs,scored_vs,allowed_vs,dn,dUR,dTUR,dP,dA,dE,dPB,pn,p_W,p_L,p_SV,p_R,p_ER,p_IP,p_BF,p_S,p_D,p_T,p_HR,p_BB,p_HBP,p_IBB,p_K,p_BK,p_WP,p_PO,p_GDP,b_O,b_E,b_S,b_D,b_T,b_HR,b_BB,b_IBB,b_HBP,b_K,b_I,b_SH,b_SF,b_GDP,b_R,b_RBI,b_SB,b_CS,b_PO
+gid,team,gameNumber,opp,home,spread,n,wins,scored,allowed,lob,n_vs,wins_vs,scored_vs,allowed_vs,dn,dUR,dTUR,dP,dA,dE,dPB,pn,pW,pL,pSV,pR,pER,pIP,pBF,pS,pD,pT,pHR,pBB,pHBP,pIBB,pK,pBK,pWP,pPO,pGDP,bO,bE,bS,bD,bT,bHR,bBB,bIBB,bHBP,bK,bI,bSH,bSF,bGDP,bR,bRBI,bSB,bCS,bPO
 20140627PHIATL0,ATL,79,PHI,0,2,60,28,204,241,405,6,2,18,28,60,21,0,1624,572,35,7,46,20,13,0,100,96,893,1212,177,40,7,33,64,16,4,264,1,2,11,0,961,7,317,82,10,57,160,11,16,484,1,13,10,41,207,198,24,8,1
 20140418TBANYA0,NYA,17,TBA,0,-6,16,10,64,56,119,1,1,10,2,16,2,0,423,148,6,2,35,13,14,0,80,82,660,900,131,52,3,22,45,5,2,164,0,6,4,0,814,14,282,69,8,50,125,3,20,324,1,6,7,25,202,188,52,8,4
 20140505MIANYN0,NYN,31,MIA,0,-1,30,16,128,130,210,3,2,14,10,30,7,0,833,286,16,2,29,10,10,0,69,67,527,749,134,34,3,13,55,4,1,129,0,5,0,0,812,10,280,74,9,27,156,14,18,380,0,15,11,25,189,152,55,13,6

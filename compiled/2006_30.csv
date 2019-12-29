@@ -1,4 +1,4 @@
-gid,team,gameNumber,opp,home,spread,n,wins,scored,allowed,lob,n_vs,wins_vs,scored_vs,allowed_vs,dn,dUR,dTUR,dP,dA,dE,dPB,pn,p_W,p_L,p_SV,p_R,p_ER,p_IP,p_BF,p_S,p_D,p_T,p_HR,p_BB,p_HBP,p_IBB,p_K,p_BK,p_WP,p_PO,p_GDP,b_O,b_E,b_S,b_D,b_T,b_HR,b_BB,b_IBB,b_HBP,b_K,b_I,b_SH,b_SF,b_GDP,b_R,b_RBI,b_SB,b_CS,b_PO
+gid,team,gameNumber,opp,home,spread,n,wins,scored,allowed,lob,n_vs,wins_vs,scored_vs,allowed_vs,dn,dUR,dTUR,dP,dA,dE,dPB,pn,pW,pL,pSV,pR,pER,pIP,pBF,pS,pD,pT,pHR,pBB,pHBP,pIBB,pK,pBK,pWP,pPO,pGDP,bO,bE,bS,bD,bT,bHR,bBB,bIBB,bHBP,bK,bI,bSH,bSF,bGDP,bR,bRBI,bSB,bCS,bPO
 20060924TEXCLE0,TEX,156,CLE,1,-5,30,13,149,133,212,8,4,48,41,30,13,0,814,330,19,1,30,16,8,0,86,90,580,807,142,35,4,19,44,3,3,138,0,6,0,0,549,14,177,51,6,38,93,6,3,201,0,2,8,30,142,150,10,7,0
 20060414ATLSDN0,SDN,9,ATL,0,-1,8,3,37,50,51,0,0,0,0,8,1,0,213,62,4,0,29,12,8,0,88,98,458,703,124,40,3,11,77,10,1,112,0,6,0,0,444,3,126,35,6,31,91,10,3,159,0,7,13,14,110,112,10,6,2
 20060425CLEBOS0,CLE,20,BOS,1,-2,19,10,114,107,141,0,0,0,0,19,5,0,498,183,14,1,30,16,11,0,98,91,581,818,144,42,1,16,42,4,3,108,0,2,3,0,550,8,204,72,3,47,95,7,8,199,0,7,6,24,181,173,5,2,0

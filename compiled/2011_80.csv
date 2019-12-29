@@ -1,4 +1,4 @@
-gid,team,gameNumber,opp,home,spread,n,wins,scored,allowed,lob,n_vs,wins_vs,scored_vs,allowed_vs,dn,dUR,dTUR,dP,dA,dE,dPB,pn,p_W,p_L,p_SV,p_R,p_ER,p_IP,p_BF,p_S,p_D,p_T,p_HR,p_BB,p_HBP,p_IBB,p_K,p_BK,p_WP,p_PO,p_GDP,b_O,b_E,b_S,b_D,b_T,b_HR,b_BB,b_IBB,b_HBP,b_K,b_I,b_SH,b_SF,b_GDP,b_R,b_RBI,b_SB,b_CS,b_PO
+gid,team,gameNumber,opp,home,spread,n,wins,scored,allowed,lob,n_vs,wins_vs,scored_vs,allowed_vs,dn,dUR,dTUR,dP,dA,dE,dPB,pn,pW,pL,pSV,pR,pER,pIP,pBF,pS,pD,pT,pHR,pBB,pHBP,pIBB,pK,pBK,pWP,pPO,pGDP,bO,bE,bS,bD,bT,bHR,bBB,bIBB,bHBP,bK,bI,bSH,bSF,bGDP,bR,bRBI,bSB,bCS,bPO
 20110616PHIFLO0,FLO,69,PHI,0,-3,68,32,270,302,498,8,2,21,40,68,28,0,1854,640,38,6,39,11,16,0,141,141,630,930,123,54,6,42,83,4,9,156,0,9,0,0,1344,30,426,123,19,66,218,13,23,472,0,17,21,47,302,256,26,15,6
 20110729MILHOU0,HOU,106,MIL,0,-4,80,26,288,379,575,6,3,24,30,80,37,0,2114,786,53,5,10,0,5,0,30,31,184,264,36,14,5,8,18,3,0,46,0,0,1,0,1122,25,420,115,13,28,137,11,13,365,0,15,14,46,237,217,64,17,2
 20110720BALBOS0,BOS,96,BAL,0,4,80,53,448,319,594,10,7,68,47,80,24,0,2174,727,40,15,12,4,6,0,42,43,159,267,55,10,2,8,38,2,0,39,0,3,0,0,1201,26,430,140,13,87,219,17,26,420,3,8,16,54,377,358,61,18,3

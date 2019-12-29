@@ -1,4 +1,4 @@
-gid,team,gameNumber,opp,home,spread,n,wins,scored,allowed,lob,n_vs,wins_vs,scored_vs,allowed_vs,dn,dUR,dTUR,dP,dA,dE,dPB,pn,p_W,p_L,p_SV,p_R,p_ER,p_IP,p_BF,p_S,p_D,p_T,p_HR,p_BB,p_HBP,p_IBB,p_K,p_BK,p_WP,p_PO,p_GDP,b_O,b_E,b_S,b_D,b_T,b_HR,b_BB,b_IBB,b_HBP,b_K,b_I,b_SH,b_SF,b_GDP,b_R,b_RBI,b_SB,b_CS,b_PO
+gid,team,gameNumber,opp,home,spread,n,wins,scored,allowed,lob,n_vs,wins_vs,scored_vs,allowed_vs,dn,dUR,dTUR,dP,dA,dE,dPB,pn,pW,pL,pSV,pR,pER,pIP,pBF,pS,pD,pT,pHR,pBB,pHBP,pIBB,pK,pBK,pWP,pPO,pGDP,bO,bE,bS,bD,bT,bHR,bBB,bIBB,bHBP,bK,bI,bSH,bSF,bGDP,bR,bRBI,bSB,bCS,bPO
 20011004KCACLE0,KCA,159,CLE,1,4,30,11,121,176,191,18,7,78,110,30,19,0,810,315,30,0,30,8,17,0,108,99,536,781,137,35,4,24,61,11,0,92,0,6,4,0,531,18,162,51,5,27,59,7,8,145,0,1,4,30,112,124,17,3,5
 20010402BALBOS0,BAL,1,BOS,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,12,12,0,90,93,531,778,127,32,6,20,82,3,4,108,0,4,1,0,543,15,174,58,3,27,104,9,11,163,0,7,9,24,138,143,22,11,3
 20010414TORKCA0,TOR,12,KCA,1,1,11,8,68,47,75,1,1,2,1,11,6,0,294,120,8,1,8,3,1,0,19,15,132,184,24,11,1,4,17,2,0,21,0,0,1,0,494,15,157,55,3,38,80,6,9,160,0,5,9,28,148,138,8,7,1

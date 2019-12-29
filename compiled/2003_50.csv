@@ -1,4 +1,4 @@
-gid,team,gameNumber,opp,home,spread,n,wins,scored,allowed,lob,n_vs,wins_vs,scored_vs,allowed_vs,dn,dUR,dTUR,dP,dA,dE,dPB,pn,p_W,p_L,p_SV,p_R,p_ER,p_IP,p_BF,p_S,p_D,p_T,p_HR,p_BB,p_HBP,p_IBB,p_K,p_BK,p_WP,p_PO,p_GDP,b_O,b_E,b_S,b_D,b_T,b_HR,b_BB,b_IBB,b_HBP,b_K,b_I,b_SH,b_SF,b_GDP,b_R,b_RBI,b_SB,b_CS,b_PO
+gid,team,gameNumber,opp,home,spread,n,wins,scored,allowed,lob,n_vs,wins_vs,scored_vs,allowed_vs,dn,dUR,dTUR,dP,dA,dE,dPB,pn,pW,pL,pSV,pR,pER,pIP,pBF,pS,pD,pT,pHR,pBB,pHBP,pIBB,pK,pBK,pWP,pPO,pGDP,bO,bE,bS,bD,bT,bHR,bBB,bIBB,bHBP,bK,bI,bSH,bSF,bGDP,bR,bRBI,bSB,bCS,bPO
 20030424PHICOL0,COL,22,PHI,0,-8,21,12,130,109,157,2,0,6,11,21,13,0,560,228,14,0,9,3,2,0,27,28,162,239,49,12,1,4,22,2,1,21,0,2,1,0,791,14,260,84,10,54,136,14,11,306,1,19,15,39,217,233,16,14,0
 20030711CHNATL0,CHN,92,ATL,1,-4,50,22,183,236,340,1,0,3,13,50,17,0,1345,522,26,4,37,14,10,0,89,80,722,1001,134,47,4,23,66,13,3,292,0,9,1,0,753,11,255,80,4,47,111,7,14,338,0,19,4,39,169,156,10,7,1
 20030724MINKCA0,MIN,101,KCA,1,4,50,19,232,295,361,11,3,62,61,50,10,0,1337,455,21,5,41,15,14,0,136,138,729,1028,175,56,8,34,40,10,2,135,0,0,1,0,842,10,305,83,13,47,107,7,12,264,0,7,14,42,205,199,17,12,3

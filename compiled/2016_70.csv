@@ -1,4 +1,4 @@
-gid,team,gameNumber,opp,home,spread,n,wins,scored,allowed,lob,n_vs,wins_vs,scored_vs,allowed_vs,dn,dUR,dTUR,dP,dA,dE,dPB,pn,p_W,p_L,p_SV,p_R,p_ER,p_IP,p_BF,p_S,p_D,p_T,p_HR,p_BB,p_HBP,p_IBB,p_K,p_BK,p_WP,p_PO,p_GDP,b_O,b_E,b_S,b_D,b_T,b_HR,b_BB,b_IBB,b_HBP,b_K,b_I,b_SH,b_SF,b_GDP,b_R,b_RBI,b_SB,b_CS,b_PO
+gid,team,gameNumber,opp,home,spread,n,wins,scored,allowed,lob,n_vs,wins_vs,scored_vs,allowed_vs,dn,dUR,dTUR,dP,dA,dE,dPB,pn,pW,pL,pSV,pR,pER,pIP,pBF,pS,pD,pT,pHR,pBB,pHBP,pIBB,pK,pBK,pWP,pPO,pGDP,bO,bE,bS,bD,bT,bHR,bBB,bIBB,bHBP,bK,bI,bSH,bSF,bGDP,bR,bRBI,bSB,bCS,bPO
 20160717CHNTEX0,CHN,91,TEX,1,-3,70,40,346,268,528,2,2,9,1,70,21,0,1900,674,48,5,51,20,15,0,115,115,1004,1365,215,50,4,35,83,11,6,295,3,8,2,0,800,12,259,96,5,69,164,15,33,421,0,8,7,32,224,239,21,13,3
 20160701ATLMIA0,ATL,80,MIA,1,-2,70,27,240,313,499,9,7,43,33,70,19,0,1917,705,47,5,49,14,15,0,118,119,920,1257,171,45,3,40,93,14,4,270,0,8,8,0,1065,31,384,102,11,40,141,17,23,443,0,30,16,47,195,196,29,14,1
 20160404MILSFN0,SFN,1,MIL,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,18,9,0,71,70,655,869,125,30,5,21,37,7,2,234,0,1,1,0,1146,17,428,126,10,59,167,11,15,390,0,4,20,63,304,278,44,8,5

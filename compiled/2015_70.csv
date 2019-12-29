@@ -1,4 +1,4 @@
-gid,team,gameNumber,opp,home,spread,n,wins,scored,allowed,lob,n_vs,wins_vs,scored_vs,allowed_vs,dn,dUR,dTUR,dP,dA,dE,dPB,pn,p_W,p_L,p_SV,p_R,p_ER,p_IP,p_BF,p_S,p_D,p_T,p_HR,p_BB,p_HBP,p_IBB,p_K,p_BK,p_WP,p_PO,p_GDP,b_O,b_E,b_S,b_D,b_T,b_HR,b_BB,b_IBB,b_HBP,b_K,b_I,b_SH,b_SF,b_GDP,b_R,b_RBI,b_SB,b_CS,b_PO
+gid,team,gameNumber,opp,home,spread,n,wins,scored,allowed,lob,n_vs,wins_vs,scored_vs,allowed_vs,dn,dUR,dTUR,dP,dA,dE,dPB,pn,pW,pL,pSV,pR,pER,pIP,pBF,pS,pD,pT,pHR,pBB,pHBP,pIBB,pK,pBK,pWP,pPO,pGDP,bO,bE,bS,bD,bT,bHR,bBB,bIBB,bHBP,bK,bI,bSH,bSF,bGDP,bR,bRBI,bSB,bCS,bPO
 20150627MILMIN0,MIN,74,MIL,0,3,70,39,304,280,413,4,1,13,24,70,22,0,1873,752,40,2,45,17,18,0,115,121,796,1118,185,49,4,22,82,6,3,162,0,14,2,0,926,26,298,106,17,47,121,10,14,410,0,9,17,40,248,235,28,11,4
 20150613BALNYA0,BAL,61,NYA,1,5,60,30,253,241,358,8,4,42,34,60,19,0,1581,536,28,5,35,17,12,0,92,98,593,842,119,44,4,24,65,17,2,164,0,3,1,0,980,20,337,96,8,84,146,7,20,461,0,4,18,45,270,272,16,4,3
 20150605CHADET0,DET,56,CHA,0,-1,55,28,223,233,394,6,3,26,27,55,21,0,1464,540,25,2,1,1,0,0,0,0,18,24,4,1,0,0,2,0,0,1,0,0,0,0,958,22,360,107,16,50,138,19,14,402,0,9,16,55,241,230,45,15,6

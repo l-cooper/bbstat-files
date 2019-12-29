@@ -1,4 +1,4 @@
-gid,team,gameNumber,opp,home,spread,n,wins,scored,allowed,lob,n_vs,wins_vs,scored_vs,allowed_vs,dn,dUR,dTUR,dP,dA,dE,dPB,pn,p_W,p_L,p_SV,p_R,p_ER,p_IP,p_BF,p_S,p_D,p_T,p_HR,p_BB,p_HBP,p_IBB,p_K,p_BK,p_WP,p_PO,p_GDP,b_O,b_E,b_S,b_D,b_T,b_HR,b_BB,b_IBB,b_HBP,b_K,b_I,b_SH,b_SF,b_GDP,b_R,b_RBI,b_SB,b_CS,b_PO
+gid,team,gameNumber,opp,home,spread,n,wins,scored,allowed,lob,n_vs,wins_vs,scored_vs,allowed_vs,dn,dUR,dTUR,dP,dA,dE,dPB,pn,pW,pL,pSV,pR,pER,pIP,pBF,pS,pD,pT,pHR,pBB,pHBP,pIBB,pK,pBK,pWP,pPO,pGDP,bO,bE,bS,bD,bT,bHR,bBB,bIBB,bHBP,bK,bI,bSH,bSF,bGDP,bR,bRBI,bSB,bCS,bPO
 20101001BALDET2,DET,160,BAL,0,-1,50,27,273,234,387,7,4,41,39,50,22,0,1364,519,37,6,50,20,17,0,148,145,862,1227,229,48,5,34,75,8,2,144,4,14,3,0,831,16,289,68,9,36,109,4,13,301,0,18,12,28,197,179,17,6,6
 20100912CLEMIN0,CLE,143,MIN,1,-4,50,20,178,220,372,14,6,49,65,50,20,0,1349,533,38,3,25,9,11,0,76,72,442,644,106,38,1,12,63,7,2,81,1,3,1,0,819,12,241,76,3,35,141,9,18,330,0,10,13,28,155,154,21,9,7
 20100825SFNCIN0,CIN,127,SFN,0,1,50,30,253,199,347,6,2,25,45,50,16,1,1344,487,22,1,31,11,7,0,80,89,531,769,124,29,4,19,72,6,3,137,1,9,2,0,763,9,254,67,6,48,141,10,19,293,0,15,13,22,213,206,20,8,4

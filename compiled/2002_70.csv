@@ -1,4 +1,4 @@
-gid,team,gameNumber,opp,home,spread,n,wins,scored,allowed,lob,n_vs,wins_vs,scored_vs,allowed_vs,dn,dUR,dTUR,dP,dA,dE,dPB,pn,p_W,p_L,p_SV,p_R,p_ER,p_IP,p_BF,p_S,p_D,p_T,p_HR,p_BB,p_HBP,p_IBB,p_K,p_BK,p_WP,p_PO,p_GDP,b_O,b_E,b_S,b_D,b_T,b_HR,b_BB,b_IBB,b_HBP,b_K,b_I,b_SH,b_SF,b_GDP,b_R,b_RBI,b_SB,b_CS,b_PO
+gid,team,gameNumber,opp,home,spread,n,wins,scored,allowed,lob,n_vs,wins_vs,scored_vs,allowed_vs,dn,dUR,dTUR,dP,dA,dE,dPB,pn,pW,pL,pSV,pR,pER,pIP,pBF,pS,pD,pT,pHR,pBB,pHBP,pIBB,pK,pBK,pWP,pPO,pGDP,bO,bE,bS,bD,bT,bHR,bBB,bIBB,bHBP,bK,bI,bSH,bSF,bGDP,bR,bRBI,bSB,bCS,bPO
 20020512OAKTOR0,TOR,35,OAK,0,7,34,11,163,223,246,2,1,10,9,34,15,0,923,330,29,1,23,7,4,0,56,50,451,615,94,33,2,5,32,2,1,135,1,4,0,0,871,22,278,102,8,65,178,14,15,378,0,4,15,38,254,226,46,12,5
 20020610DETMON0,DET,62,MON,1,2,61,21,236,341,383,0,0,0,0,61,37,0,1605,643,55,14,3,1,2,0,12,14,53,77,14,3,1,1,6,1,0,8,0,0,0,0,1149,24,347,120,19,54,128,15,20,391,0,5,19,53,242,247,24,16,2
 20020910ATLNYN0,NYN,143,ATL,0,-6,70,31,329,334,455,12,5,55,46,70,37,0,1869,689,61,6,53,20,22,0,170,172,1026,1473,226,70,7,44,105,28,8,281,1,2,1,0,828,21,273,67,7,47,100,16,23,281,0,28,10,37,202,182,26,9,3

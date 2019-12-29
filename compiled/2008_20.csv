@@ -1,4 +1,4 @@
-gid,team,gameNumber,opp,home,spread,n,wins,scored,allowed,lob,n_vs,wins_vs,scored_vs,allowed_vs,dn,dUR,dTUR,dP,dA,dE,dPB,pn,p_W,p_L,p_SV,p_R,p_ER,p_IP,p_BF,p_S,p_D,p_T,p_HR,p_BB,p_HBP,p_IBB,p_K,p_BK,p_WP,p_PO,p_GDP,b_O,b_E,b_S,b_D,b_T,b_HR,b_BB,b_IBB,b_HBP,b_K,b_I,b_SH,b_SF,b_GDP,b_R,b_RBI,b_SB,b_CS,b_PO
+gid,team,gameNumber,opp,home,spread,n,wins,scored,allowed,lob,n_vs,wins_vs,scored_vs,allowed_vs,dn,dUR,dTUR,dP,dA,dE,dPB,pn,pW,pL,pSV,pR,pER,pIP,pBF,pS,pD,pT,pHR,pBB,pHBP,pIBB,pK,pBK,pWP,pPO,pGDP,bO,bE,bS,bD,bT,bHR,bBB,bIBB,bHBP,bK,bI,bSH,bSF,bGDP,bR,bRBI,bSB,bCS,bPO
 20080829BOSCHA0,BOS,134,CHA,1,8,20,13,130,103,153,4,2,19,14,20,3,0,532,189,10,1,20,13,2,0,41,41,343,499,64,23,2,8,68,4,1,95,0,4,0,0,357,7,121,55,6,24,72,6,11,123,0,1,5,20,115,124,11,3,0
 20080621MINARI0,MIN,75,ARI,1,5,20,10,104,102,136,1,1,7,2,20,5,0,537,209,9,0,14,5,4,0,39,37,258,366,77,20,2,7,15,6,0,46,0,1,0,0,381,6,134,39,7,14,57,0,4,120,0,7,12,16,108,101,6,6,1
 20080801TEXTOR0,TEX,110,TOR,1,1,20,10,122,133,148,5,2,21,23,20,7,0,531,205,18,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,371,9,136,51,2,23,55,5,6,123,0,5,5,14,122,108,10,3,3

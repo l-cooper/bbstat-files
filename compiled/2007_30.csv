@@ -1,4 +1,4 @@
-gid,team,gameNumber,opp,home,spread,n,wins,scored,allowed,lob,n_vs,wins_vs,scored_vs,allowed_vs,dn,dUR,dTUR,dP,dA,dE,dPB,pn,p_W,p_L,p_SV,p_R,p_ER,p_IP,p_BF,p_S,p_D,p_T,p_HR,p_BB,p_HBP,p_IBB,p_K,p_BK,p_WP,p_PO,p_GDP,b_O,b_E,b_S,b_D,b_T,b_HR,b_BB,b_IBB,b_HBP,b_K,b_I,b_SH,b_SF,b_GDP,b_R,b_RBI,b_SB,b_CS,b_PO
+gid,team,gameNumber,opp,home,spread,n,wins,scored,allowed,lob,n_vs,wins_vs,scored_vs,allowed_vs,dn,dUR,dTUR,dP,dA,dE,dPB,pn,pW,pL,pSV,pR,pER,pIP,pBF,pS,pD,pT,pHR,pBB,pHBP,pIBB,pK,pBK,pWP,pPO,pGDP,bO,bE,bS,bD,bT,bHR,bBB,bIBB,bHBP,bK,bI,bSH,bSF,bGDP,bR,bRBI,bSB,bCS,bPO
 20070930LANSFN0,SFN,162,LAN,0,9,30,11,104,145,178,17,7,63,84,30,1,0,793,306,11,3,30,10,11,0,85,87,530,768,103,35,4,22,74,4,4,121,0,5,1,0,498,2,165,45,9,20,49,5,9,142,0,11,10,24,97,100,27,8,1
 20070524ATLNYN0,ATL,47,NYN,1,1,30,16,150,134,217,8,5,35,36,30,9,0,788,293,16,4,30,18,6,0,69,68,588,820,125,40,6,17,42,6,6,178,0,7,1,0,451,7,165,59,6,27,73,6,8,183,0,19,6,17,119,130,9,2,0
 20070625TBACHA0,CHA,72,TBA,0,1,30,7,107,160,188,2,1,10,15,30,11,0,779,319,20,1,13,3,6,0,38,36,211,317,49,20,0,13,27,2,3,56,0,1,0,0,440,9,157,36,0,21,86,9,11,177,0,3,8,16,93,93,17,13,3
